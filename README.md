@@ -1,25 +1,25 @@
-# ProyectosJava 👩‍💻
+# ☕ Proyectos Java
 
-Este repositorio contiene varios proyectos y ejercicios realizados en Java como parte de mi formación como Desarrolladora Java Junior.
+Este repositorio contiene una colección de proyectos desarrollados en Java como parte de mi proceso de aprendizaje y práctica en programación orientada a objetos. Cada proyecto resuelve un caso específico utilizando buenas prácticas de codificación y herramientas modernas.
 
-## 📁 Contenido
+---
 
-- Lectura de datos desde consola
-- Manejo de variables y tipos de datos
-- Cálculo de números aleatorios
-- Formateo de cadenas con `printf` y `String.format`
-- Control de flujo (`if`, `while`, `for`)
-- Recetas codificadas en Java (ejercicio creativo)
-- Sistema de empleados simple
-- Uso de estructuras básicas como arreglos y condicionales
+## 🛠 Tecnologías utilizadas
 
-## 🛠️ Tecnologías
+- Java 17
+- IntelliJ IDEA
+- Git y GitHub
+- Programación Orientada a Objetos (POO)
 
-- Lenguaje: Java
-- IDE: IntelliJ IDEA
-- Control de versiones: Git & GitHub
+---
 
-## 🙋‍♀️ Sobre mí
+## 🚀 Cómo ejecutar
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/vguzman34/ProyectosJava.git
+
 Vanessa Guzmán  
 Analista y Desarrolladora de Sistemas de Información  
 📍 Barranquilla, Colombia
