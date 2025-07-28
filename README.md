@@ -6,9 +6,9 @@ Este repositorio contiene una colección de proyectos desarrollados en Java como
 
 ## 🛠 Tecnologías utilizadas
 
-- Java 17
-- IntelliJ IDEA
-- Git y GitHub
+- Java 17  
+- IntelliJ IDEA  
+- Git y GitHub  
 - Programación Orientada a Objetos (POO)
 
 ---
@@ -16,6 +16,9 @@ Este repositorio contiene una colección de proyectos desarrollados en Java como
 ## 🚀 Cómo ejecutar
 
 1. Clona el repositorio:
+
+```bash
+git clone https://github.com/vguzman34/ProyectosJava.git
 
 ```bash
 git clone https://github.com/vguzman34/ProyectosJava.git
