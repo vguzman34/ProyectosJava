@@ -1,24 +1,24 @@
 # ☕ Proyectos Java
 
-Este repositorio contiene una colección de proyectos desarrollados en Java como parte de mi proceso de aprendizaje y práctica en programación orientada a objetos. Cada proyecto resuelve un caso específico utilizando buenas prácticas de codificación y herramientas modernas.
+Este repositorio contiene una colección de proyectos desarrollados en Java como parte de mi proceso de aprendizaje y práctica en programación orientada a objetos. Cada proyecto aborda un caso específico, aplicando buenas prácticas de codificación y lógica estructurada.
 
 ---
 
 ## 🛠 Tecnologías utilizadas
 
-- Java 17  
-- IntelliJ IDEA  
-- Git y GitHub  
-- Programación Orientada a Objetos (POO)
+- **Java 17**
+- **IntelliJ IDEA**
+- **Git y GitHub**
+- **Programación Orientada a Objetos (POO)**
 
 ---
 
-## 🚀 Cómo ejecutar
+## 🚀 ¿Cómo ejecutar los proyectos?
 
-1. Clona el repositorio:
+1. Clona el repositorio en tu equipo:
+   ```bash
+   git clone https://github.com/vguzman34/ProyectosJava.git
 
-```bash
-git clone https://github.com/vguzman34/ProyectosJava.git
 
 ```bash
 git clone https://github.com/vguzman34/ProyectosJava.git
